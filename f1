@@ -3,3 +3,5 @@ git has 3 layaers
 working area
 staging area
 local repo
+versioning of code is maintained in local repo
+commit id is same at both region`:
